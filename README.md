@@ -1,4 +1,4 @@
-# Student Course Management System
+# Student System Class Diagram
 
 ## About the Project
 
